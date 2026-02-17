@@ -1,11 +1,10 @@
 # AI Career Recommendation System 🧠
 
 ML-based system that recommends suitable career paths based on user skills and interests.
+🚀 Developed using supervised Machine Learning techniques to assist students in choosing suitable career paths.
+
 
 ---
-
-## 🏆 Hackathon Achievement
-Winner – AI/ML Domain (College Hackathon 2025)
 
 ## 📌 Overview
 Choosing the right career path can be overwhelming for students.  
